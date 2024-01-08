@@ -38,6 +38,7 @@ public class Calendar1 {
 	    year+=1;
 
 	    }
+	    System.out.println("During the 20th century, " + isSunday + " Sundays fell on the first day of the month")
 	}
 	  
 		 
